@@ -23,9 +23,9 @@
 
 
 ### IDE & Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
 ### Full Stack Projects
 
