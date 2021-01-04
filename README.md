@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&color=blue)](https://www.linkedin.com/in/thiago-costa-12321218b/)
-[![Gmail](https://img.shields.io/badge/-thiagocosta130-db4c4c?&logo=gmail&logoColor=ffffff)](http://mailto:thiagocosta130@gmail.com)
+[![Gmail](https://img.shields.io/badge/-thiagocosta130-db4c4c?&logo=gmail&logoColor=ffffff)](http://mailto:someone@microsoft.com?subject=Hello%20again")
 
 ### Languages
 
