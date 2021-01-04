@@ -1,7 +1,7 @@
 
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&color=blue)](https://www.linkedin.com/in/thiago-costa-12321218b/)
 
 ### Languages
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=8892bf)
@@ -20,7 +20,12 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=254bdd)
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=e44d26)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+
+
+### IDE & Tools
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
 
 ### Full Stack Projects
 
