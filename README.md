@@ -31,7 +31,7 @@
 ### Full Stack Projects
 
 ![Opportunity Pipeline](https://img.shields.io/badge/-📝%20Opportunity%20Pipeline-000?)
-
+[![To do List](https://img.shields.io/badge/-✅%20To%20do%20List-000?)](https://github.com/thiagoephigenio/react-to-do-list?)
 
 ### Cybersecurity Projects
 
