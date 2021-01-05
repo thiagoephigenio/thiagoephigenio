@@ -1,9 +1,8 @@
 # Hi I'm Thiago 👋
-
-#### Welcome to my GitHub page
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&color=blue)](https://www.linkedin.com/in/thiago-costa-12321218b/)
 [![Gmail](https://img.shields.io/badge/-thiagocosta130-000?&logo=gmail&logoColor=fff&color=red)](mailto:thiagocosta130@gmail.com)
 [![Telegram](https://img.shields.io/badge/-ethiagocosta-000?&logo=telegram)](https://t.me/ethiagocosta/)
+#### Welcome to my GitHub page.
 
 ### Languages
 
