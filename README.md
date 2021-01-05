@@ -1,6 +1,7 @@
 # Hi I'm Thiago 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&color=blue)](https://www.linkedin.com/in/thiago-costa-12321218b/)
+[![Telegram](https://img.shields.io/badge/-ethiagocosta-000?&logo=telegram)](https://t.me/ethiagocosta/)
 
 ### Languages
 
