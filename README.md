@@ -41,5 +41,5 @@
 
 ### Cybersecurity Projects
 
-[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-000?)](https://github.com/thiagoephigenio/sql-injection-xss-csrf-atack.git)
+[![SQL Injection - XSS - CSRF](https://img.shields.io/badge/-💉%20SQL%20Injection-000?)](https://github.com/thiagoephigenio/sql-injection-xss-csrf-atack.git)
 
