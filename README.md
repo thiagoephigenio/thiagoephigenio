@@ -18,7 +18,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)<br/>
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=0)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
