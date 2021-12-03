@@ -7,8 +7,7 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=TypeScript&logoColor=ddc508)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=8892bf)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=0)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 
