@@ -3,6 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-thiagocosta130-000?&logo=gmail&logoColor=fff&color=red)](mailto:thiagocosta130@gmail.com)
 [![Telegram](https://img.shields.io/badge/-ethiagocosta-000?&logo=telegram)](https://t.me/ethiagocosta/)
 #### Welcome to my GitHub page.
+![SQL](https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
 
 ### Languages
 
