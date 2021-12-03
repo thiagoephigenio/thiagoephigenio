@@ -36,7 +36,7 @@
 ![Opportunity Pipeline](https://img.shields.io/badge/-📉%20Opportunity%20Pipeline-000?)
 
 ### Front-End Projects
-[![My Money](https://img.shields.io/badge/-✅%20To%20do%20List%20React-000?)](https://github.com/thiagoephigenio/react-to-do-list?)
+[![My Money](https://img.shields.io/badge/-✅%20My%20Money-000?)](https://github.com/thiagoephigenio/react-to-do-list?)
 [![To do List](https://img.shields.io/badge/-✅%20To%20do%20List%20React-000?)](https://github.com/thiagoephigenio/react-to-do-list?)
 [![To do List](https://img.shields.io/badge/-✅%20To%20do%20List%20Vue.js-000?)](https://github.com/thiagoephigenio/vue-to-do-list?)
 
