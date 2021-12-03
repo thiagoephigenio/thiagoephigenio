@@ -16,15 +16,17 @@
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)<br/>
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=0)
-![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=e44d26)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=254bdd)
-![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=e44d26)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-000?&logo=styled-components&logoColor=0)
+<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=0)
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+
 
 
 ### IDE & Tools
