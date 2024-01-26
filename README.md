@@ -28,12 +28,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
 
-
-### IDE & Tools
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=0066b8)
-
 ### Full Stack Projects
 
 ![Opportunity Pipeline](https://img.shields.io/badge/-📉%20Opportunity%20Pipeline-000?)
